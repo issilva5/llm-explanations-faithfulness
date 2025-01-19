@@ -1,0 +1,601 @@
+user_id,age,location,isbn,book_title,book_author,book_rating,liked
+2276,46,"niskayuna, new york, usa",0553246089,A Mother's Trial,Nancy Wright,8,FALSE
+2276,46,"niskayuna, new york, usa",0446609323,Black Friday,James Patterson,9,FALSE
+2276,46,"niskayuna, new york, usa",0671635743,"The IDIC Epidemic (Star Trek, Book 38)",Jean Lorrah,9,FALSE
+2276,46,"niskayuna, new york, usa",0449237842,At Wits End,Erma Bombeck,10,TRUE
+2276,46,"niskayuna, new york, usa",0671797050,FIRST WIVES CLUB,Olivia Goldsmith,10,TRUE
+2276,46,"niskayuna, new york, usa",0345379144,Zombies of the Gene Pool,Sharyn McCrumb,10,TRUE
+8864,26,"st petersburg, florida, usa",0553299077,The Face of the Waters,Robert Silverberg,7,FALSE
+8864,26,"st petersburg, florida, usa",1400034779,The No. 1 Ladies' Detective Agency (Today Show Book Club #8),Alexander McCall Smith,8,FALSE
+8864,26,"st petersburg, florida, usa",0812575490,"Wolf's Head, Wolf's Heart (Wolf)",Jane Lindskold,8,FALSE
+8864,26,"st petersburg, florida, usa",0446359750,Devices and Desires,Phyllis White,9,TRUE
+8864,26,"st petersburg, florida, usa",0380818191,"Truth, The",Terry Pratchett,9,TRUE
+8864,26,"st petersburg, florida, usa",0061031321,Thief of Time,Terry Pratchett,9,TRUE
+12122,26,"cooks hill, new south wales, australia",1740590651,Lonely Planet Australia (Lonely Planet Australia),Paul Harding,7,FALSE
+12122,26,"cooks hill, new south wales, australia",0702227749,Pelicans and Chihuahus and Other Urban Legends: Talking About Folklore (Uqp Paperbacks),William Neville Scott,7,FALSE
+12122,26,"cooks hill, new south wales, australia",0671034979,The Starr Evidence,Bill Clinton,7,FALSE
+12122,26,"cooks hill, new south wales, australia",0732266289,Report From Engine Co. 82,Dennis Smith,8,TRUE
+12122,26,"cooks hill, new south wales, australia",0140287698,48 shades of brown,Nick Earls,9,TRUE
+12122,26,"cooks hill, new south wales, australia",006098726X,Stupid White Men : ...And Other Sorry Excuses for the State of the Nation!,Michael Moore,9,TRUE
+14998,25,"canton, georgia, usa",0553278398,Prelude to Foundation (Foundation Novels (Paperback)),ISAAC ASIMOV,6,FALSE
+14998,25,"canton, georgia, usa",0451457730,Stardoc: A Novel (Stardoc (Paperback)),S. L. Viehl,7,FALSE
+14998,25,"canton, georgia, usa",0441772854,Soothsayer,Mike Resnick,7,FALSE
+14998,25,"canton, georgia, usa",0441715923,Replay,Ken Grimwood,8,TRUE
+14998,25,"canton, georgia, usa",0553286390,"Dragon Wing (The Death Gate Cycle, Book 1)",Margaret Weis,9,TRUE
+14998,25,"canton, georgia, usa",0446606979,"Carnivores of Light and Darkness (Journeys of the Catechist , Book 1)",Alan Dean Foster,9,TRUE
+15957,27,"sydney, new south wales, australia",0312290624,"Tom, Dick, and Debbie Harry",Jessica Adams,6,FALSE
+15957,27,"sydney, new south wales, australia",0224018256,Unreliable Memoirs,Clive James,8,FALSE
+15957,27,"sydney, new south wales, australia",0435122037,New Windmills: Across the Barricades (New Windmills),Joan Lingard,8,FALSE
+15957,27,"sydney, new south wales, australia",0446673544,Sex &amp; the City,Candace Bushnell,9,TRUE
+15957,27,"sydney, new south wales, australia",0860074382,84 Charing Cross Road,Helene Hanff,9,TRUE
+15957,27,"sydney, new south wales, australia",0060929596,As Nature Made Him : The Boy Who Was Raised as a Girl,John Colapinto,10,TRUE
+16777,30,"hummelstown, pennsylvania, usa",0448131307,Source of Everyday Things,Aldren Watson,5,FALSE
+16777,30,"hummelstown, pennsylvania, usa",0440439884,Island of the Blue Dolphins,SCOTT O'DELL,6,FALSE
+16777,30,"hummelstown, pennsylvania, usa",0451523733,Adventures of Huckleberry Finn,Mark Twain,7,FALSE
+16777,30,"hummelstown, pennsylvania, usa",1853260053,Tess of the D'Urbervilles (Wordsworth Classics),Thomas Hardy,10,TRUE
+16777,30,"hummelstown, pennsylvania, usa",1853262447,Old Curiosity Shop (Wordsworth Collection),Charles Dickens,10,TRUE
+16777,30,"hummelstown, pennsylvania, usa",0345339703,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J.R.R. TOLKIEN,10,TRUE
+19760,23,"clemson, south carolina, usa",0440227194,Brian's Winter,GARY PAULSEN,6,FALSE
+19760,23,"clemson, south carolina, usa",0671034766,What You Leave Behind (Star Trek Deep Space Nine),Diane Carey,8,FALSE
+19760,23,"clemson, south carolina, usa",0743436466,The Nanotech War (Star Trek Voyager),Steven Piziks,8,FALSE
+19760,23,"clemson, south carolina, usa",0756401577,The Sorcerer's Academy,Denise Little,9,TRUE
+19760,23,"clemson, south carolina, usa",0684853515,Hearts In Atlantis : New Fiction,Stephen King,9,TRUE
+19760,23,"clemson, south carolina, usa",0743400518,Avatar Book Two of Two (Star Trek: Deep Space Nine),S.D. Perry,9,TRUE
+27740,57,"san diego, , usa",0345447603,Trading in Danger,ELIZABETH MOON,6,FALSE
+27740,57,"san diego, , usa",0786865636,Middle of Nowhere,Ridley Pearson,7,FALSE
+27740,57,"san diego, , usa",0679428895,Pompeii: A Novel,ROBERT HARRIS,7,FALSE
+27740,57,"san diego, , usa",0756400538,"The Fall of Neskaya (The Clingfire Trilogy, Book 1)",Marion Zimmer Bradley,8,TRUE
+27740,57,"san diego, , usa",0380977311,"Exit Wounds : A Novel of Suspense (Jance, Ja)",J. A. Jance,8,TRUE
+27740,57,"san diego, , usa",0671880314,Schindler's List,Thomas Keneally,10,TRUE
+28735,58,"hannover, niedersachsen, germany",0140004564,Burmese Days,George Orwell,7,FALSE
+28735,58,"hannover, niedersachsen, germany",0954335007,French Leaves: Letter from the Languedoc,Christopher Campbell-Howes,8,FALSE
+28735,58,"hannover, niedersachsen, germany",1583224890,9-11,Noam Chomsky,8,FALSE
+28735,58,"hannover, niedersachsen, germany",0449910857,The Pillars of Hercules: A Grand Tour of the Mediterranean,Paul Theroux,9,TRUE
+28735,58,"hannover, niedersachsen, germany",0718121449,James Herriots Yorkshire,James Herriot,10,TRUE
+28735,58,"hannover, niedersachsen, germany",3442152666,Briefe gegen den Krieg,Tiziano Terzani,10,TRUE
+30276,49,"wildwood, new jersey, usa",0373289936,"His Secret Duchess (Harlequin Historical Romances, No 393)",Jim Wilson,7,FALSE
+30276,49,"wildwood, new jersey, usa",0373076916,"Mackenzie'S Pleasure (Silhouette Intimate Moments, No 691)",Linda Howard,7,FALSE
+30276,49,"wildwood, new jersey, usa",078601489X,Dearly Beloved,Wendy Corsi Staub,7,FALSE
+30276,49,"wildwood, new jersey, usa",0515133418,Summer in Eclipse Bay,Jayne Ann Krentz,8,TRUE
+30276,49,"wildwood, new jersey, usa",0373225172,"Her Baby, His Secret (Men Of Mystery) (Harlequin Intrigue, No. 517)",Jim Wilson,8,TRUE
+30276,49,"wildwood, new jersey, usa",0671568841,All the Queen's Men,Linda Howard,8,TRUE
+37034,30,"roma, lazio, italy",8845223183,L'isola del giorno prima,Umberto Eco,1,FALSE
+37034,30,"roma, lazio, italy",8806134876,Garzanti - Gli Elefanti: L'idiota,Dostoevskij,1,FALSE
+37034,30,"roma, lazio, italy",8807810212,D Amore E Ombra,Isabel Allende,3,FALSE
+37034,30,"roma, lazio, italy",881786983X,La Rabbia E L'Orgoglio,Oriana Fallaci,5,TRUE
+37034,30,"roma, lazio, italy",8845249778,Le Ore,Micheal Cunningham,5,TRUE
+37034,30,"roma, lazio, italy",8817533165,GesÃ¹ e le donne,Marco Garzonio,6,TRUE
+37293,41,"whitehorse, yukon territory, canada",0373625421,"Way Of The Wolf (Deathlands #42) (Deathlands , No 42)",James Axler,4,FALSE
+37293,41,"whitehorse, yukon territory, canada",0440159237,The settlers (His Australians),William Stuart Long,7,FALSE
+37293,41,"whitehorse, yukon territory, canada",0373303025,Through Darkest Amer (Isaac Asimov Presents),Neal Barrett,7,FALSE
+37293,41,"whitehorse, yukon territory, canada",0441748600,To Sail Beyond the Sunset,Robert Heinlein,8,TRUE
+37293,41,"whitehorse, yukon territory, canada",0743436466,The Nanotech War (Star Trek Voyager),Steven Piziks,8,TRUE
+37293,41,"whitehorse, yukon territory, canada",034541389X,Flesh and Blood,Jonathan Kellerman,8,TRUE
+44595,39,"toronto, ontario, canada",0821733745,"Death Zone Attack (C.a.D.S, No 11)",John Sievert,5,FALSE
+44595,39,"toronto, ontario, canada",0451192303,"Between a Wok and a Hard Place: A Pennsylvania Dutch Mystery With Recipes (Magdalena Yoder Mystery Series , No 5)",Tamar Myers,6,FALSE
+44595,39,"toronto, ontario, canada",0441005551,Dragon Tempest (Callander's Dragon),Don Callander,7,FALSE
+44595,39,"toronto, ontario, canada",0345314255,Sword of Shannara,Terry Brooks,8,TRUE
+44595,39,"toronto, ontario, canada",0441029213,Ariel/Book of Change,Steven R. Boyett,8,TRUE
+44595,39,"toronto, ontario, canada",0968636314,Everyone in Silico,Jim Munroe,8,TRUE
+47194,36,"linton, indiana, usa",0385479387,The Waiting Time (Doubleday Colophon),Eugenia Price,5,FALSE
+47194,36,"linton, indiana, usa",1568653123,Another Homecoming,Janette Oke,7,FALSE
+47194,36,"linton, indiana, usa",1586605550,Ohio: The Young Buckeye State Blossoms With Love and Adventure in Four Complete Novels,Dianne Christner,7,FALSE
+47194,36,"linton, indiana, usa",1586603892,The English Garden: Centuries of Botanical Delight Brought to Life in Four Romantic Novellas,Gail Gaymer Martin,9,TRUE
+47194,36,"linton, indiana, usa",1556614365,"Candle in the Darkness (Refiner's Fire, 1)",Lynn N. Austin,10,TRUE
+47194,36,"linton, indiana, usa",0764223828,"Sweet Boundless (Diamond of the Rockies, 2)",Kristen Heitzmann,10,TRUE
+50845,19,"east hampton, connecticut, usa",0060099240,The Heart of Islam : Enduring Values for Humanity,Seyyed Hossein Nasr,2,FALSE
+50845,19,"east hampton, connecticut, usa",0140440879,Piers the Ploughman (Penguin Classics),William Langland,7,FALSE
+50845,19,"east hampton, connecticut, usa",0441008658,Spindle's End,Robin McKinley,7,FALSE
+50845,19,"east hampton, connecticut, usa",0195124987,Common Women: Prostitution and Sexuality in Medieval England (Studies in the History of Sexuality),Ruth Mazo Karras,8,TRUE
+50845,19,"east hampton, connecticut, usa",0486287769,Great Short Stories by American Women (Dover Thrift Editions),Candace Ward,9,TRUE
+50845,19,"east hampton, connecticut, usa",0062502182,The Alchemist: A Fable About Following Your Dream,Paulo Coelho,10,TRUE
+51449,26,"derby, england, united kingdom",0952586282,Ancient Rock Carvings from Great Britain and Ireland,Chris Mansell,7,FALSE
+51449,26,"derby, england, united kingdom",0316910147,Not Till the Red Fog Rises,Derek Raymond,8,FALSE
+51449,26,"derby, england, united kingdom",0451410556,The Blue Last: A Richard Jury Mystery (Richard Jury Mysteries (Paperback)),Martha Grimes,8,FALSE
+51449,26,"derby, england, united kingdom",0140070354,Letters to Sherlock Holmes,Richard Lancelyn Green,9,TRUE
+51449,26,"derby, england, united kingdom",0460878018,Rupert Brooke &amp; Wilfred Owen (Everyman's Poetry Series),Rupert Brooke,10,TRUE
+51449,26,"derby, england, united kingdom",0805043888,The Debt to Pleasure: A Novel,John Lanchester,10,TRUE
+53304,52,"south burlington, vermont, usa",0142004235,East of Eden (Oprah's Book Club),John Steinbeck,3,FALSE
+53304,52,"south burlington, vermont, usa",0553801279,A Traitor to Memory,Elizabeth George,6,FALSE
+53304,52,"south burlington, vermont, usa",0553107305,Chopping Spree,DIANE MOTT DAVIDSON,7,FALSE
+53304,52,"south burlington, vermont, usa",0312265859,Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,8,TRUE
+53304,52,"south burlington, vermont, usa",0385504209,The Da Vinci Code,Dan Brown,10,TRUE
+53304,52,"south burlington, vermont, usa",0688156134,Stalker: A Novel (Peter Decker &amp; Rina Lazarus Novels (Hardcover)),Faye Kellerman,10,TRUE
+54589,49,"chicago, illinois, usa",0441483356,Lilac Night,Michael T. Hinkemeyer,6,FALSE
+54589,49,"chicago, illinois, usa",0671873202,Hidden Jewel (Landry),V.C. Andrews,7,FALSE
+54589,49,"chicago, illinois, usa",0590972138,"Strange Invaders (Visitors, Bk 1)",Rodman Philbrick,7,FALSE
+54589,49,"chicago, illinois, usa",0671701231,The Anastasia Syndrome,Mary Higgins Clark,8,TRUE
+54589,49,"chicago, illinois, usa",0446523186,Belladonna: A Novel of Revenge,Karen Moline,8,TRUE
+54589,49,"chicago, illinois, usa",0671553038,LIFE SUPPORT,Tess Gerritsen,10,TRUE
+56246,37,"toronto, ontario, canada",0006392466,Working Class Zero,Rob Payne,5,FALSE
+56246,37,"toronto, ontario, canada",0140430474,Sense and Sensibility (Penguin Classics),Jane Austen,5,FALSE
+56246,37,"toronto, ontario, canada",0140182217,Women in Love (Twentieth Century Classics S.),D.H. Lawrence,5,FALSE
+56246,37,"toronto, ontario, canada",0440241073,The Summons,John Grisham,7,TRUE
+56246,37,"toronto, ontario, canada",1573229326,How to Be Good,Nick Hornby,7,TRUE
+56246,37,"toronto, ontario, canada",039592720X,Interpreter of Maladies,Jhumpa Lahiri,10,TRUE
+57302,32,"ames, iowa, usa",0743253973,A Separate Peace,John Knowles,7,FALSE
+57302,32,"ames, iowa, usa",0553268880,The Prince of Tides,Pat Conroy,7,FALSE
+57302,32,"ames, iowa, usa",0345370775,Jurassic Park,Michael Crichton,8,FALSE
+57302,32,"ames, iowa, usa",0671894412,All the President's Men,Carl Bernstein,9,TRUE
+57302,32,"ames, iowa, usa",140005446X,"Queer Eye for the Straight Guy : The Fab 5's Guide to Looking Better, Cooking Better, Dressing Better, Behaving Better, and Living Better",TED ALLEN,10,TRUE
+57302,32,"ames, iowa, usa",0671452177,WLD ACCORDNG GARP,John Irving,10,TRUE
+57935,19,"minneapolis, minnesota, usa",042513525X,Hideaway,Dean R. Koontz,7,FALSE
+57935,19,"minneapolis, minnesota, usa",0060929782,Black Boy (Perennial Classics),Richard A. Wright,7,FALSE
+57935,19,"minneapolis, minnesota, usa",1573225789,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,8,FALSE
+57935,19,"minneapolis, minnesota, usa",0440184622,Tai-Pan,JAMES CLAVELL,10,TRUE
+57935,19,"minneapolis, minnesota, usa",0671244221,Man's Search for Meaning: An Introduction to Logotherapy,Viktor E. Frankl,10,TRUE
+57935,19,"minneapolis, minnesota, usa",0440178002,Shogun,JAMES CLAVELL,10,TRUE
+58834,56,"box hill north, victoria, australia",0062502182,The Alchemist: A Fable About Following Your Dream,Paulo Coelho,6,FALSE
+58834,56,"box hill north, victoria, australia",0940322080,India: A Mosaic,Robert B. Silvers,8,FALSE
+58834,56,"box hill north, victoria, australia",1861591845,Mirage,Bandula Chandraratna,8,FALSE
+58834,56,"box hill north, victoria, australia",0330363239,Dirt music,Tim Winton,9,TRUE
+58834,56,"box hill north, victoria, australia",0140072187,Chickenhawk,Robert Mason,9,TRUE
+58834,56,"box hill north, victoria, australia",0670887412,Why weren't we told?: A personal search for the truth about our history,Henry Reynolds,10,TRUE
+59812,48,"cortlandt manor, new york, usa",0451527666,Ethan Frome (Signet Classics (Paperback)),Edith Wharton,6,FALSE
+59812,48,"cortlandt manor, new york, usa",0385335989,Drums of Autumn,DIANA GABALDON,7,FALSE
+59812,48,"cortlandt manor, new york, usa",0061002747,Murder on the Orient Express,Agatha Christie,7,FALSE
+59812,48,"cortlandt manor, new york, usa",0440215625,Dragonfly in Amber,DIANA GABALDON,8,TRUE
+59812,48,"cortlandt manor, new york, usa",0374199698,Middlesex: A Novel,Jeffrey Eugenides,8,TRUE
+59812,48,"cortlandt manor, new york, usa",1566195438,Three Musketeers,Alexandre Dumas,9,TRUE
+66640,42,"bradenton, florida, usa",0425192954,Much Ado About Murder,Anne Perry,5,FALSE
+66640,42,"bradenton, florida, usa",0345442822,Angry Housewives Eating Bon Bons (Ballantine Reader's Circle),LORNA LANDVIK,8,FALSE
+66640,42,"bradenton, florida, usa",0345463927,Dead Wrong,MARIAH STEWART,8,FALSE
+66640,42,"bradenton, florida, usa",0316693200,2nd Chance,James Patterson,9,TRUE
+66640,42,"bradenton, florida, usa",1576735990,And the Angels Were Silent,Max Lucado,10,TRUE
+66640,42,"bradenton, florida, usa",0316168815,The Lovely Bones,Alice Sebold,10,TRUE
+69929,71,"seattle, washington, usa",009179319X,Neanderthal,John Darnton,8,FALSE
+69929,71,"seattle, washington, usa",0061031038,Buried at Sea,Paul Garrison,8,FALSE
+69929,71,"seattle, washington, usa",0425161722,Net Force,Tom Clancy,8,FALSE
+69929,71,"seattle, washington, usa",0449203794,Space,James A. Michener,9,TRUE
+69929,71,"seattle, washington, usa",0345378490,Congo,Michael Crichton,9,TRUE
+69929,71,"seattle, washington, usa",0312980388,Warlock : A Novel of Ancient Egypt,Wilbur Smith,10,TRUE
+72975,21,"minneapolis, minnesota, usa",031220325X,The Samurai's Wife,Laura Joh Rowland,7,FALSE
+72975,21,"minneapolis, minnesota, usa",1573221775,My Dream of You,Nuala O'Faolain,8,FALSE
+72975,21,"minneapolis, minnesota, usa",0142301493,Leave Well Enough Alone,Rosemary Wells,8,FALSE
+72975,21,"minneapolis, minnesota, usa",0786868716,The Five People You Meet in Heaven,Mitch Albom,9,TRUE
+72975,21,"minneapolis, minnesota, usa",0553279378,I Know Why the Caged Bird Sings,MAYA ANGELOU,9,TRUE
+72975,21,"minneapolis, minnesota, usa",0804108412,Damage,Josephine Hart,9,TRUE
+72992,44,"vanves, ile-de-france, france",2080800353,L'Art de la guerre par l'exemple : StratÃ?Â¨ges et batailles,FrÃ?Â©dÃ?Â©ric Encel,7,FALSE
+72992,44,"vanves, ile-de-france, france",2070429725,Aventure sans pareille d'un certain Hans Pfaall,Edgar-Allan Poe,7,FALSE
+72992,44,"vanves, ile-de-france, france",2213012040,Atlas stratÃ©gique: GÃ©opolitique des rapports de forces dans le monde,GÃ©rard Chaliand,8,FALSE
+72992,44,"vanves, ile-de-france, france",2070367894,La Mort est mon mÃ?Â©tier,Robert Merle,9,TRUE
+72992,44,"vanves, ile-de-france, france",2253001279,Journal De Anne Frank,Anne Frank,10,TRUE
+72992,44,"vanves, ile-de-france, france",2070372162,Moby Dick 2VOL,Herman Melville,10,TRUE
+75096,28,"astoria, new york, usa",0451409973,Julie and Romeo: A Novel,Jeanne Ray,7,FALSE
+75096,28,"astoria, new york, usa",0375413189,The Spiral Staircase: My Climb Out of Darkness,Karen Armstrong,8,FALSE
+75096,28,"astoria, new york, usa",0060013125,Night Watch,Terry Pratchett,8,FALSE
+75096,28,"astoria, new york, usa",0441005969,Riddle-Master: The Complete Trilogy,Patricia A. McKillip,9,TRUE
+75096,28,"astoria, new york, usa",0060504080,Small Wonder : Essays,Barbara Kingsolver,9,TRUE
+75096,28,"astoria, new york, usa",0380012863,Jonathan Livingston Seagull,Richard Bach,10,TRUE
+79687,24,"altlussheim, baden-wuerttemberg, germany",3404138031,Die Erben des Rings. Fantastische Geschichten. J.R.R. Tolkien zu Ehren.,Martin Harry Greenberg,7,FALSE
+79687,24,"altlussheim, baden-wuerttemberg, germany",3608930620,"Das Buch der Verschollenen Geschichten, 2 Bde., Tl.2",John Ronald Reuel Tolkien,8,FALSE
+79687,24,"altlussheim, baden-wuerttemberg, germany",3608935215,Die Sagen von Mittelerde (4 BÃ?Â¤nde im Schuber),John Ronald Reuel Tolkien,8,FALSE
+79687,24,"altlussheim, baden-wuerttemberg, germany",3608935436,Die Wiederkehr Des Konigs III,J. R. R. Tolkien,10,TRUE
+79687,24,"altlussheim, baden-wuerttemberg, germany",3453217284,Blade Runner.,Philip K. Dick,10,TRUE
+79687,24,"altlussheim, baden-wuerttemberg, germany",3608935428,Die Zwei Turme II,J. R. R. Tolkien,10,TRUE
+80135,29,"ipoh, perak, malaysia",0312302487,The Character of Rain: A Novel,Amelie Nothomb,7,FALSE
+80135,29,"ipoh, perak, malaysia",0425152251,Sophie's World: A Novel About the History of Philosophy,Jostein Gaarder,8,FALSE
+80135,29,"ipoh, perak, malaysia",0375725849,Perfume: The Story of a Murderer (Vintage International),Patrick Suskind,8,FALSE
+80135,29,"ipoh, perak, malaysia",0811214591,Loving Sabotage,Amelie Nothomb,9,TRUE
+80135,29,"ipoh, perak, malaysia",0394563158,The Pigeon,Patrick Suskind,10,TRUE
+80135,29,"ipoh, perak, malaysia",0060931914,Demian: The Story of Emil Sinclair's Youth (Perennial Classics),Hermann Hesse,10,TRUE
+80754,26,"duisburg, nordrhein-westfalen, germany",3499108518,Der Fanger Im Roggen,Jerome D. Salinger,5,FALSE
+80754,26,"duisburg, nordrhein-westfalen, germany",345307565X,Die Akte. Roman.,John Grisham,7,FALSE
+80754,26,"duisburg, nordrhein-westfalen, germany",3492235816,Das Achte Gebot,Anne Holt,8,FALSE
+80754,26,"duisburg, nordrhein-westfalen, germany",3785712243,Rosenrot Mausetot. 4 Cassetten.,James Patterson,9,TRUE
+80754,26,"duisburg, nordrhein-westfalen, germany",3800023466,Spiegelzeit. Eine phantastische Geschichte.,Wolfgang Hohlbein,10,TRUE
+80754,26,"duisburg, nordrhein-westfalen, germany",3426619644,Das Lied der Sirenen. Sonderausgabe.,Val McDermid,10,TRUE
+88976,43,"mason, ohio, usa",0671739441,MINE : MINE,Robert McCammon,7,FALSE
+88976,43,"mason, ohio, usa",0440241006,Persuader,LEE CHILD,8,FALSE
+88976,43,"mason, ohio, usa",0449202720,A Walk Across America,Peter Jenkins,8,FALSE
+88976,43,"mason, ohio, usa",0385492081,Into Thin Air : A Personal Account of the Mt. Everest Disaster,JON KRAKAUER,9,TRUE
+88976,43,"mason, ohio, usa",0399501487,Lord of the Flies,William Gerald Golding,9,TRUE
+88976,43,"mason, ohio, usa",0671039741,Salem's Lot,Stephen King,10,TRUE
+89852,23,"chambersburg, pennsylvania, usa",0743428617,Midnight Flight (Broken Wings),V.C. Andrews,7,FALSE
+89852,23,"chambersburg, pennsylvania, usa",0060987103,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,8,FALSE
+89852,23,"chambersburg, pennsylvania, usa",0451124340,Different Seasons,Stephen King,9,FALSE
+89852,23,"chambersburg, pennsylvania, usa",0345384369,Intensity,DEAN KOONTZ,10,TRUE
+89852,23,"chambersburg, pennsylvania, usa",0060928336,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,10,TRUE
+89852,23,"chambersburg, pennsylvania, usa",0425144429,Mr. Murder,Dean R. Koontz,10,TRUE
+91184,31,"kuala lumpur, kuala lumpur, malaysia",0061007153,A Quiver Full of Arrows,Jeffrey Archer,4,FALSE
+91184,31,"kuala lumpur, kuala lumpur, malaysia",0451526341,Animal Farm,George Orwell,6,FALSE
+91184,31,"kuala lumpur, kuala lumpur, malaysia",0836236688,Dilbert: Seven Years Of Highly Defective People (P,Scott Adams,7,FALSE
+91184,31,"kuala lumpur, kuala lumpur, malaysia",0394448049,Tear and a Smile,Kahlil Gibran,9,TRUE
+91184,31,"kuala lumpur, kuala lumpur, malaysia",0385509618,Guts! : Companies that Blow the Doors off Business-as-usual,KEVIN FREIBERG,9,TRUE
+91184,31,"kuala lumpur, kuala lumpur, malaysia",0836217691,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,Bill Watterson,10,TRUE
+94865,21,"bremen, bremen, germany",3765516457,Cassie.,Misty Bernall,7,FALSE
+94865,21,"bremen, bremen, germany",3442446244,Popcorn.,Ben Elton,8,FALSE
+94865,21,"bremen, bremen, germany",3596139953,Der Familienschandfleck.,Kerstin Bauer,8,FALSE
+94865,21,"bremen, bremen, germany",3442309174,Die Umarmung des Todes.,Natsuo Kirino,10,TRUE
+94865,21,"bremen, bremen, germany",3442433495,Der Campus.,Dietrich Schwanitz,10,TRUE
+94865,21,"bremen, bremen, germany",340104950X,Die Insel des vollkommenen GlÃ?Â¼cks.,Christian Waluszek,10,TRUE
+95593,43,"aberdour, scotland, united kingdom",0340766131,The House of Dust (The Quintilian Dalrymple Crime Novels),Paul Johnston,7,FALSE
+95593,43,"aberdour, scotland, united kingdom",0449910261,Dave Barry's Complete Guide to Guys,DAVE BARRY,8,FALSE
+95593,43,"aberdour, scotland, united kingdom",0140069119,A Tiger for Malgudi (King Penguin S.),R.K. Narayan,8,FALSE
+95593,43,"aberdour, scotland, united kingdom",0345440641,Dave Barry Is Not Making This Up,Dave Barry,9,TRUE
+95593,43,"aberdour, scotland, united kingdom",0671526723,Audrey Hepburns Neck,Alan Brown,9,TRUE
+95593,43,"aberdour, scotland, united kingdom",0345444094,Dave Barry Is Not Taking This Sitting Down,Dave Barry,9,TRUE
+99252,47,"austin, texas, usa",1551669021,Like Silk,Mary Lynn Baxter,6,FALSE
+99252,47,"austin, texas, usa",0446606812,Message in a Bottle,Nicholas Sparks,6,FALSE
+99252,47,"austin, texas, usa",0764223305,The Covenant (Abram's Daughters),Beverly Lewis,7,FALSE
+99252,47,"austin, texas, usa",0440241073,The Summons,John Grisham,8,TRUE
+99252,47,"austin, texas, usa",0671035347,Sentimental Journey,Jill Barnett,9,TRUE
+99252,47,"austin, texas, usa",0446310786,To Kill a Mockingbird,Harper Lee,9,TRUE
+102399,25,"los angeles, california, usa",0486288595,Favorite Greek Myths (Dover Children's Thrift Classics),Bob Blaisdell,6,FALSE
+102399,25,"los angeles, california, usa",0671733583,GHOSTLY TERRORS (RACK SIZE),Morris L. Cohen,7,FALSE
+102399,25,"los angeles, california, usa",0877286671,Runelore: A Handbook of Esoteric Runology,Edred Thorsson,7,FALSE
+102399,25,"los angeles, california, usa",0451169522,Misery,Stephen King,8,TRUE
+102399,25,"los angeles, california, usa",0590313126,Esp: Stories of Strange Happenings,Rita G. Gelman,9,TRUE
+102399,25,"los angeles, california, usa",067173685X,REMEMBER ME (REMEMBER ME),Christopher Pike,9,TRUE
+104443,18,"saint louis, missouri, usa",0670867896,Voodoo Child: The Illustrated Legend of Jimi Hendrix (Penguin Studio Books),Martin I. Green,7,FALSE
+104443,18,"saint louis, missouri, usa",0863161286,Hemingway for Beginners,Errol Selkirk,7,FALSE
+104443,18,"saint louis, missouri, usa",1570360669,Caleb Beldragons Chronicle of the Three Counties,Paul Warren,7,FALSE
+104443,18,"saint louis, missouri, usa",1578632064,CITY MAGICK,Christopher Penczak,8,TRUE
+104443,18,"saint louis, missouri, usa",1559703989,Acid Plaid : New Scottish Writing,Harry Ritchie,8,TRUE
+104443,18,"saint louis, missouri, usa",0452266777,Lucy (Plume Contemporary Fiction),Jamaica Kincaid,9,TRUE
+109461,30,"oklahoma city, oklahoma, usa",0441569595,Neuromancer (Remembering Tomorrow),William Gibson,8,FALSE
+109461,30,"oklahoma city, oklahoma, usa",038071339X,The Monkey Wrench Gang,Edward Abbey,8,FALSE
+109461,30,"oklahoma city, oklahoma, usa",0062512358,"The 22 Non-Negotiable Laws of Wellness: Feel, Think, and Live Better Than You Ever Thought Possible",Greg Anderson,8,FALSE
+109461,30,"oklahoma city, oklahoma, usa",0060951699,The Lives of the Heart: Poems,Jane Hirshfield,9,TRUE
+109461,30,"oklahoma city, oklahoma, usa",0060976241,The Lone Ranger and Tonto Fistfight in Heaven,Sherman Alexie,9,TRUE
+109461,30,"oklahoma city, oklahoma, usa",0060975547,Love Medicine,Louise Erdrich,10,TRUE
+112412,30,"oakland, california, usa",0375703128,The Road to Mars,Eric Idle,7,FALSE
+112412,30,"oakland, california, usa",0140089225,The Bone People,Keri Hulme,9,FALSE
+112412,30,"oakland, california, usa",0394722744,Son of the Revolution,LIANG HENG,9,FALSE
+112412,30,"oakland, california, usa",0060964049,"Tales of the City (Tales of the City Series, V. 1)",Armistead Maupin,10,TRUE
+112412,30,"oakland, california, usa",0395194970,Hulda,Carol Svendsen,10,TRUE
+112412,30,"oakland, california, usa",1878067745,Solo: On Her Own Adventure,Susan Fox Rogers,10,TRUE
+115150,59,"groveland, california, usa",0446533270,The Christmas Train,David Baldacci,5,FALSE
+115150,59,"groveland, california, usa",0060932759,Daughter of Fortune,Isabel Allende,6,FALSE
+115150,59,"groveland, california, usa",0156027321,Life of Pi,Yann Martel,6,FALSE
+115150,59,"groveland, california, usa",0679457313,The God of Small Things,Arundhati Roy,8,TRUE
+115150,59,"groveland, california, usa",0871136791,Cold Mountain,Charles Frazier,8,TRUE
+115150,59,"groveland, california, usa",0375412530,Back When We Were Grownups: A Novel,ANNE TYLER,9,TRUE
+117581,41,"alton, illinois, usa",0553155377,JANET HAMM NEEDS A DATE FOR THE DANCE,EVE BUNTING,5,FALSE
+117581,41,"alton, illinois, usa",1555139884,"Eternal Passage (California Pioneer Series, Book 3)",Elaine Schulte,7,FALSE
+117581,41,"alton, illinois, usa",0916441822,"My Utmost for His Highest, Promotional Edition",Oswald Chambers,7,FALSE
+117581,41,"alton, illinois, usa",091336715X,In His Steps,Charles Sheldon,8,TRUE
+117581,41,"alton, illinois, usa",0064400042,On the Banks of Plum Creek,Laura Ingalls Wilder,9,TRUE
+117581,41,"alton, illinois, usa",0375806717,Black Stallion,Walter Farley,10,TRUE
+122086,18,"victoria, british columbia, canada",0971880107,Wild Animus,Rich Shapero,3,FALSE
+122086,18,"victoria, british columbia, canada",0553204769,The Unborn,David Shobin,5,FALSE
+122086,18,"victoria, british columbia, canada",067170463X,Murder on the Orient Express,Agatha Christie,8,FALSE
+122086,18,"victoria, british columbia, canada",0140170502,A Dream of Eagles,Jack Whyte,9,TRUE
+122086,18,"victoria, british columbia, canada",0373195451,"Her Secret Longing (Silhouette Romance, No. 1545)",Gail Gaymer Martin,9,TRUE
+122086,18,"victoria, british columbia, canada",0345370775,Jurassic Park,Michael Crichton,9,TRUE
+123988,32,"amarillo, texas, usa",0062731025,The Cartoon Guide to Statistics,Larry Gonick,2,FALSE
+123988,32,"amarillo, texas, usa",0609802895,Living Language Diccionario de EspaÃ±ol,Ana Suffredini,3,FALSE
+123988,32,"amarillo, texas, usa",0684825562,OUT OF THE WOODS : Stories,Chris Offutt,6,FALSE
+123988,32,"amarillo, texas, usa",002861979X,The Complete Idiot's Guide to Starting Your Own Business (Complete Idiot's Guides),Ed Paulson,8,TRUE
+123988,32,"amarillo, texas, usa",0393310728,How to Lie With Statistics,Darrell Huff,9,TRUE
+123988,32,"amarillo, texas, usa",0735101213,Of Human Bondage,W. Somerset Maugham,9,TRUE
+124233,26,"lisboa, lisboa, portugal",0380756374,"In the Light of Sigma Draconis (A Woman of the Iron People, Part 1)",Eleanor Arnason,3,FALSE
+124233,26,"lisboa, lisboa, portugal",0451151844,Indigo Moon,Patricia Rice,5,FALSE
+124233,26,"lisboa, lisboa, portugal",0140431020,Lady Susan ; The Watsons ; Sanditon (Penguin English Library),Jane Austen,5,FALSE
+124233,26,"lisboa, lisboa, portugal",0743206029,On the Street Where You Live : A Novel,Mary Higgins Clark,6,TRUE
+124233,26,"lisboa, lisboa, portugal",006100166X,Friday's Child,Georgette Heyer,8,TRUE
+124233,26,"lisboa, lisboa, portugal",0373834489,Corinthian,Georgette Heyer,9,TRUE
+125396,14,"albuquerque, new mexico, usa",0440475198,Runaway Ralph,Beverly Cleary,5,FALSE
+125396,14,"albuquerque, new mexico, usa",0590431927,"The New Kate (Sleepover Friends, No 26)",Susan Saunders,7,FALSE
+125396,14,"albuquerque, new mexico, usa",0440800498,Emily Imagination,Beverly Cleary,7,FALSE
+125396,14,"albuquerque, new mexico, usa",0590187511,"Puppies in the Pantry (Animal Ark, Book 3)",Ben M. Baglio,8,TRUE
+125396,14,"albuquerque, new mexico, usa",059041089X,Little Rabbit's Baby Brother (Gr. K-3),Fran Manushkin,8,TRUE
+125396,14,"albuquerque, new mexico, usa",0590436287,Freedom Train: The Story of Harriet Tubman,Dorothy Sterling,9,TRUE
+126814,32,"west chester, ohio, usa",039457186X,Vogue Knitting: The Ultimate Knitting Book,Vogue Knitting Magazine,5,FALSE
+126814,32,"west chester, ohio, usa",0895944111,Casting the Circle: A Women's Book of Ritual,Diane Stein,5,FALSE
+126814,32,"west chester, ohio, usa",087542791X,To Ride a Silver Broomstick: New Generation Witchcraft,Silver Ravenwolf,5,FALSE
+126814,32,"west chester, ohio, usa",0515094978,The Cat Who Had 14 Tales,Lilian Jackson Braun,7,TRUE
+126814,32,"west chester, ohio, usa",0812585151,Bard: The Odyssey of the Irish (Celtic World of Morgan Llywelyn),Morgan Llywelyn,8,TRUE
+126814,32,"west chester, ohio, usa",0439064872,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,10,TRUE
+127481,45,"thunder bay, ontario, canada",1551990938,Summer of the Heart: Saving Alexandre,Paul Adams,7,FALSE
+127481,45,"thunder bay, ontario, canada",0786866020,Fish! A Remarkable Way to Boost Morale and Improve Results,Stephen C. Lundin,7,FALSE
+127481,45,"thunder bay, ontario, canada",0140146555,"Read All About It!: Great Read-Aloud Stories, Poems, and Newspaper Pieces for Preteens and Teens",Jim Trelease,8,FALSE
+127481,45,"thunder bay, ontario, canada",0375408908,The Working Poor : Invisible in America,DAVID K. SHIPLER,9,TRUE
+127481,45,"thunder bay, ontario, canada",1570251401,La Doctora: The Journal of an American Doctor Practicing Medicine on the Amazon River,Linnea Smith,10,TRUE
+127481,45,"thunder bay, ontario, canada",006053429X,Couldn't Keep It to Myself : Testimonies from Our Imprisoned Sisters,Wally Lamb,10,TRUE
+127914,43,"anchorage, alaska, usa",0446601640,Slow Waltz in Cedar Bend,Robert James Waller,8,FALSE
+127914,43,"anchorage, alaska, usa",0804114986,The Bonesetter's Daughter,Amy Tan,9,FALSE
+127914,43,"anchorage, alaska, usa",0141310340,Skin and Other Stories (Now in Speak!),Roald Dahl,9,FALSE
+127914,43,"anchorage, alaska, usa",1575100479,Alaska's Wolf Man: The 1915-55 Wilderness Adventures of Frank Glaser,Jim Rearden,10,TRUE
+127914,43,"anchorage, alaska, usa",0960603050,Jean's Way,Derek Humphry,10,TRUE
+127914,43,"anchorage, alaska, usa",0451166582,The Eyes of the Dragon,Stephen King,10,TRUE
+130157,47,"olympia, washington, usa",0316781266,The Last Time They Met : A Novel,Anita Shreve,5,FALSE
+130157,47,"olympia, washington, usa",0425192725,Q Is for Quarry,Sue Grafton,5,FALSE
+130157,47,"olympia, washington, usa",0446610399,The Rescue,Nicholas Sparks,5,FALSE
+130157,47,"olympia, washington, usa",1591823935,"Confidential Confessions, Book 1",Reiko Momochi,6,TRUE
+130157,47,"olympia, washington, usa",0316284955,White Oleander : A Novel (Oprah's Book Club),Janet Fitch,7,TRUE
+130157,47,"olympia, washington, usa",0312261721,The Secret Ingredient,Jane Heller,9,TRUE
+136193,40,"los angeles, california, usa",0375502238,Blessings,ANNA QUINDLEN,5,FALSE
+136193,40,"los angeles, california, usa",0060936959,The Season of Lillian Dawes: A Novel,Katherine Mosby,6,FALSE
+136193,40,"los angeles, california, usa",0399145990,The River King,Alice Hoffman,7,FALSE
+136193,40,"los angeles, california, usa",0374129983,The Corrections,Jonathan Franzen,9,TRUE
+136193,40,"los angeles, california, usa",0375414657,The Piano Tuner,Daniel Mason,10,TRUE
+136193,40,"los angeles, california, usa",0871136791,Cold Mountain,Charles Frazier,10,TRUE
+137803,27,"kaltern/caldaro (bz), trentino alto adige, italy",1586648632,Deedlit's Tale: Choices (Record of Lodoss War),Ryo Mizuno,7,FALSE
+137803,27,"kaltern/caldaro (bz), trentino alto adige, italy",3257228112,Bin ich schÃ?Â¶n?,Doris DÃ?Â¶rrie,8,FALSE
+137803,27,"kaltern/caldaro (bz), trentino alto adige, italy",0946162581,Deutschland: A Winter's Tale : Bilingual Edition,Heinrich Heine,8,FALSE
+137803,27,"kaltern/caldaro (bz), trentino alto adige, italy",0805210407,The Trial,Franz Kafka,9,TRUE
+137803,27,"kaltern/caldaro (bz), trentino alto adige, italy",2070223965,Andorra: PiÃ?Â¨ce en douze tableaux,Max Frisch,9,TRUE
+137803,27,"kaltern/caldaro (bz), trentino alto adige, italy",0879516593,Brother of Sleep,Robert Schneider,9,TRUE
+139206,52,"elk grove, california, usa",1551669374,Sisters Found,Joan Johnston,2,FALSE
+139206,52,"elk grove, california, usa",0375700757,Cold Mountain : A Novel,CHARLES FRAZIER,5,FALSE
+139206,52,"elk grove, california, usa",006000925X,Daisy's Back in Town,Rachel Gibson,6,FALSE
+139206,52,"elk grove, california, usa",0451210751,Blue Skies,Catherine Anderson,7,TRUE
+139206,52,"elk grove, california, usa",0312965788,All Creatures Great and Small,James Herriot,7,TRUE
+139206,52,"elk grove, california, usa",0451212169,Bright Eyes (Coulter Family Series),Catherine Anderson,7,TRUE
+142076,27,"gonic, new hampshire, usa",0760707871,The Mythmaker: Paul And the Invention Of Christianity,Hyam Maccoby,4,FALSE
+142076,27,"gonic, new hampshire, usa",0684848910,The Templar Revelation: Secret Guardians of the True Identity of Christ,Lynn Picknett,5,FALSE
+142076,27,"gonic, new hampshire, usa",0380726289,"Darkness, Take My Hand (Patrick Kenzie/Angela Gennaro Novels)",Dennis Lehane,8,FALSE
+142076,27,"gonic, new hampshire, usa",0440180295,Slaughterhouse Five or the Children's Crusade: A Duty Dance With Death,Kurt Vonnegut,10,TRUE
+142076,27,"gonic, new hampshire, usa",0060609176,Meeting Jesus Again for the First Time : The Historical Jesus and the Heart of Contemporary Faith,Marcus J. Borg,10,TRUE
+142076,27,"gonic, new hampshire, usa",0664257550,Meditations on the Cross,Dietrich Bonhoeffer,10,TRUE
+142772,33,"new westminster, british columbia, canada",0373709633,"Annalee And The Lawman (Count On A Cop) (Harlequin Super Romance, No 963)",Lyn Ellis,4,FALSE
+142772,33,"new westminster, british columbia, canada",0373705646,"Wildfire (Harlequin Superromance, No 70564)",Lynn Erickson,5,FALSE
+142772,33,"new westminster, british columbia, canada",0373707940,"Cottonwood Creek  (Home On The Ranch) (Superromance , No 794)",Margot Dalton,5,FALSE
+142772,33,"new westminster, british columbia, canada",0373708203,"Twilight Texas  (The West Texans) (The West Texans,  No 820)",Ginger Chambers,6,TRUE
+142772,33,"new westminster, british columbia, canada",0373710992,The Farmer's Wife,Lori Handeland,7,TRUE
+142772,33,"new westminster, british columbia, canada",0440219175,A Summer to Die,Lois Lowry,8,TRUE
+147045,28,"saint paul, minnesota, usa",0679426159,Standing in the Rainbow : A Novel,FANNIE FLAGG,5,FALSE
+147045,28,"saint paul, minnesota, usa",189919715X,Angels of the Universe (Shad Thames Books),Mar Gumundsson Einar,6,FALSE
+147045,28,"saint paul, minnesota, usa",0679892540,"Learn About Shapes: With Flips, Flaps, Slides, Tabs, and Pop-Up Surprises (Sesame Street Interactive Pop-Ups , No 2)",Tom Brannon,7,FALSE
+147045,28,"saint paul, minnesota, usa",0760700133,This side of paradise (Barnes &amp; Noble classics),F. Scott Fitzgerald,8,TRUE
+147045,28,"saint paul, minnesota, usa",0452282152,Girl with a Pearl Earring,Tracy Chevalier,9,TRUE
+147045,28,"saint paul, minnesota, usa",0415918243,"Reel to Real: Race, Sex, and Class at the Movies",Bell Hooks,9,TRUE
+147307,48,"larkspur, colorado, usa",0553586181,The Bachelor List,JANE FEATHER,5,FALSE
+147307,48,"larkspur, colorado, usa",0671523090,Flash,Jayne Ann Krentz,5,FALSE
+147307,48,"larkspur, colorado, usa",0671742566,Tender Triumph (Sonnet Books),Judith McNaught,5,FALSE
+147307,48,"larkspur, colorado, usa",0525432922,World of Christopher Robin,Ernest H. Milne,9,TRUE
+147307,48,"larkspur, colorado, usa",0440223202,Evening Class,Maeve Binchy,9,TRUE
+147307,48,"larkspur, colorado, usa",0517347997,"Jane Austen, Her Complete Novels",Jane Austen,10,TRUE
+148121,34,"atlanta, georgia, usa",0515127833,River's End,Nora Roberts,5,FALSE
+148121,34,"atlanta, georgia, usa",0821776436,Let It Snow,Fern Michaels,5,FALSE
+148121,34,"atlanta, georgia, usa",0151002649,The Sunday Macaroni Club: A Novel,Steve Lopez,6,FALSE
+148121,34,"atlanta, georgia, usa",0345389964,A Son of the Circus,John Irving,7,TRUE
+148121,34,"atlanta, georgia, usa",0061093335,"Nora, Nora: A Novel",Anne Rivers Siddons,7,TRUE
+148121,34,"atlanta, georgia, usa",0452260116,Song of Solomon (Oprah's Book Club (Paperback)),Toni Morrison,9,TRUE
+155680,22,"lisbon, ., portugal",0140620281,Nostromo (Penguin Popular Classics),Joseph Conrad,5,FALSE
+155680,22,"lisbon, ., portugal",0312282354,Mr. Mee : A Novel,Andrew Crumey,5,FALSE
+155680,22,"lisbon, ., portugal",0380775123,Tiger Burning Bright,Marion Zimmer Bradley,7,FALSE
+155680,22,"lisbon, ., portugal",0441172695,"Dune Messiah (Dune Chronicles, Book 2)",Frank Herbert,8,TRUE
+155680,22,"lisbon, ., portugal",0441172717,Dune (Remembering Tomorrow),Frank Herbert,8,TRUE
+155680,22,"lisbon, ., portugal",0785787135,The Mists of Avalon,Marion Zimmer Bradley,10,TRUE
+159506,28,"portland, oregon, usa",0312265840,Seven Up (A Stephanie Plum Novel),Janet Evanovich,7,FALSE
+159506,28,"portland, oregon, usa",0345391055,Disclosure,Michael Crichton,7,FALSE
+159506,28,"portland, oregon, usa",0440234743,The Testament,John Grisham,8,FALSE
+159506,28,"portland, oregon, usa",0380788624,Cryptonomicon,Neal Stephenson,9,TRUE
+159506,28,"portland, oregon, usa",0552083895,Armageddon,Leon Uris,9,TRUE
+159506,28,"portland, oregon, usa",0684803356,For Whom the Bell Tolls,Ernest Hemingway,10,TRUE
+161037,32,"milton, ,",0440221080,Sea Fire,Karen Robards,8,FALSE
+161037,32,"milton, ,",0440208270,This Side of Heaven,Karen Robards,9,FALSE
+161037,32,"milton, ,",0399138994,Mr. Murder,Dean R. Koontz,9,FALSE
+161037,32,"milton, ,",0440208300,Maggy's Child,Karen Robards,10,TRUE
+161037,32,"milton, ,",0671786466,Paradise County,Karen Robards,10,TRUE
+161037,32,"milton, ,",0451149513,It,Stephen King,10,TRUE
+162980,41,"manhattan, kansas, usa",0451188705,Special Treatment,Nancy Fisher,3,FALSE
+162980,41,"manhattan, kansas, usa",0312983220,Area 7,Matthew Reilly,5,FALSE
+162980,41,"manhattan, kansas, usa",0061031410,Courting Trouble,Lisa Scottoline,7,FALSE
+162980,41,"manhattan, kansas, usa",0525943749,Son of Rosemary: The Sequel to Rosemary's Baby,Ira Levin,8,TRUE
+162980,41,"manhattan, kansas, usa",0425170306,The Lost Bird,Margaret Coel,8,TRUE
+162980,41,"manhattan, kansas, usa",0451181379,The Door to December,Dean R. Koontz,9,TRUE
+167012,44,"strasbourg, alsace, france",285704268X,Les ailes du matin t1,Lesage Mireille,7,FALSE
+167012,44,"strasbourg, alsace, france",2070381544,Le maÃ?Â®tre des abeilles,Henri Vincenot,8,FALSE
+167012,44,"strasbourg, alsace, france",2857042981,La trahison des dieux,Marion Zimmer Bradley,8,FALSE
+167012,44,"strasbourg, alsace, france",2070384659,La petite marchande de prose (Collection Folio),Daniel Pennac,10,TRUE
+167012,44,"strasbourg, alsace, france",2714436706,La puissance des vaincus,Wally Lamb,10,TRUE
+167012,44,"strasbourg, alsace, france",2070381315,La fÃ©e carabine (Collection Folio),Daniel Pennac,10,TRUE
+167587,22,"anaheim hills, ,",0142000205,Icy Sparks,Gwyn Hyman Rubio,7,FALSE
+167587,22,"anaheim hills, ,",0316096199,Lucky : A Memoir,Alice Sebold,8,FALSE
+167587,22,"anaheim hills, ,",0316693006,Four Blind Mice,James Patterson,8,FALSE
+167587,22,"anaheim hills, ,",0446610542,The Bachelor (Warner Books Contemporary Romance),Carly Phillips,9,TRUE
+167587,22,"anaheim hills, ,",0451202341,Back Roads,Tawni O'Dell,9,TRUE
+167587,22,"anaheim hills, ,",0316666343,The Lovely Bones: A Novel,Alice Sebold,10,TRUE
+171045,44,"foster city, ,",0316540838,The Hottest State: A Novel,Ethan Hawke,7,FALSE
+171045,44,"foster city, ,",0804105537,Storming Intrepid,Payne Harrison,8,FALSE
+171045,44,"foster city, ,",0515106402,Battleground: The Corps,W. E. B. Griffin,8,FALSE
+171045,44,"foster city, ,",0425182150,Perish Twice,Robert B. Parker,9,TRUE
+171045,44,"foster city, ,",0425169863,Point of Origin,Patricia Daniels Cornwell,9,TRUE
+171045,44,"foster city, ,",0920303714,Le Rouge C'Est Bien Meiux / Red is Best,Kathy Stinson,10,TRUE
+187990,34,"palmdale, california, usa",0060191538,"Perfect Murder, Perfect Town",Lawrence Schiller,5,FALSE
+187990,34,"palmdale, california, usa",0312976275,Hot Six : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,8,FALSE
+187990,34,"palmdale, california, usa",0312968523,Hush,Mark Nykanen,8,FALSE
+187990,34,"palmdale, california, usa",0425099687,The Floating Admiral,Agatha Christie,9,TRUE
+187990,34,"palmdale, california, usa",0312966970,Four To Score (A Stephanie Plum Novel),Janet Evanovich,9,TRUE
+187990,34,"palmdale, california, usa",0553149814,Mysterious Affair At Styles,Agatha Christie,10,TRUE
+195694,29,"tucson, arizona, usa",006039384X,Mirror Mirror: A Novel,Gregory Maguire,4,FALSE
+195694,29,"tucson, arizona, usa",0064471055,Prince Caspian (rack) : The Return to Narnia (Narnia),C. S. Lewis,7,FALSE
+195694,29,"tucson, arizona, usa",069452364X,Motherless Brooklyn,Jonathan Lethem,8,FALSE
+195694,29,"tucson, arizona, usa",078601556X,Crimson Shadows,Trisha Baker,9,TRUE
+195694,29,"tucson, arizona, usa",0743428013,Remember Me #1 (reissue),Christopher Pike,10,TRUE
+195694,29,"tucson, arizona, usa",0394498216,Interview with the Vampire : Anniversary edition,ANNE RICE,10,TRUE
+196106,34,"west palm beach, florida, usa",067153288X,A Tangled Web,Judith Michael,6,FALSE
+196106,34,"west palm beach, florida, usa",0743456254,"A Loving Scoundrel (Lindsey, Johanna)",Johanna Lindsey,8,FALSE
+196106,34,"west palm beach, florida, usa",0373484232,Stanislaski Sisters,Nora Roberts,9,FALSE
+196106,34,"west palm beach, florida, usa",0345327853,Beloved,BERTRICE SMALL,10,TRUE
+196106,34,"west palm beach, florida, usa",0449001806,The Innocent,Bertrice Small,10,TRUE
+196106,34,"west palm beach, florida, usa",0452262240,Ex-Wife (Plume American Women Writers),Ursula Parrott,10,TRUE
+196502,38,"decatur, georgia, usa",0060173289,Divine Secrets of the Ya-Ya Sisterhood : A Novel,Rebecca Wells,6,FALSE
+196502,38,"decatur, georgia, usa",006251315X,At the Root of This Longing : Reconciling a Spiritual Hunger and a Feminist Thirst,Carol L. Flinders,6,FALSE
+196502,38,"decatur, georgia, usa",0064400557,Charlotte's Web (Trophy Newbery),E. B. White,8,FALSE
+196502,38,"decatur, georgia, usa",0875968600,The Organic Suburbanite : An Environmentally Friendly Way to Live the American Dream,Warren Schultz,9,TRUE
+196502,38,"decatur, georgia, usa",0449906167,Erotica: Women's writing from Sappho to Margaret Atwood,Jeanette Winterson,9,TRUE
+196502,38,"decatur, georgia, usa",1578660807,Life's Imponderables: The Answers to Civilization's Most Perplexing Questions : Why Do Clocks Run Clockwise? When Do Fish Sleep? Why Do Dogs Have Wet Noses? (Life's Imponderables),David Feldman,10,TRUE
+198213,19,"williamsburg/norfolk, virginia, usa",0590460404,The Lampfish of Twill,Janet Taylor Lisle,7,FALSE
+198213,19,"williamsburg/norfolk, virginia, usa",014038572X,The Outsiders (Now in Speak!),S. E. Hinton,7,FALSE
+198213,19,"williamsburg/norfolk, virginia, usa",0385265700,The Book of Ruth (Oprah's Book Club (Paperback)),Jane Hamilton,8,FALSE
+198213,19,"williamsburg/norfolk, virginia, usa",0446672211,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,9,TRUE
+198213,19,"williamsburg/norfolk, virginia, usa",0451527747,Alice's Adventures in Wonderland and Through the Looking Glass,Lewis Carroll,9,TRUE
+198213,19,"williamsburg/norfolk, virginia, usa",0767902521,A Walk in the Woods: Rediscovering America on the Appalachian Trail (Official Guides to the Appalachian Trail),Bill Bryson,10,TRUE
+198969,24,"nanaimo, british columbia, canada",078688097X,Inner Simplicity : 100 Ways to Regain Peace and Nourish Your Souls,Elaine St. James,6,FALSE
+198969,24,"nanaimo, british columbia, canada",0771089570,Love and Salt Water (New Canadian Library),Ethel Wilson,7,FALSE
+198969,24,"nanaimo, british columbia, canada",0140434186,Wuthering Heights (Penguin Classics),Emily Bronte,8,FALSE
+198969,24,"nanaimo, british columbia, canada",0449210820,Woman on the Edge of Time,Marge Piercy,9,TRUE
+198969,24,"nanaimo, british columbia, canada",0416052029,The Dream Catcher (A Magnet Book),Monica Hughes,9,TRUE
+198969,24,"nanaimo, british columbia, canada",0517598507,"Why Me, Why This, Why Now: A Guide to Answering Life's Toughest Questions",Robin Norwood,9,TRUE
+203910,16,"manila, makati, phillipines",0806987561,Tae Kwon Do Basics,Keith Yates,8,FALSE
+203910,16,"manila, makati, phillipines",0060263954,Stuart Little 60th Anniversary Edition,E. B. White,8,FALSE
+203910,16,"manila, makati, phillipines",1570827281,Disney's Lady and the Tramp: Classic Storybook,Jamie Simons,9,FALSE
+203910,16,"manila, makati, phillipines",0446608955,A Walk to Remember,Nicholas Sparks,10,TRUE
+203910,16,"manila, makati, phillipines",0439053870,Civil War Ghosts,Daniel Cohen,10,TRUE
+203910,16,"manila, makati, phillipines",0553279912,A Is for Alibi (Kinsey Millhone Mysteries (Paperback)),SUE GRAFTON,10,TRUE
+204964,24,"chicopee, massachusetts, usa",0451523938,Dr. Jekyll and Mr. Hyde (Signet Classics),Robert Louis Stevenson,6,FALSE
+204964,24,"chicopee, massachusetts, usa",0553575570,Dhiammara,Maggie Furey,7,FALSE
+204964,24,"chicopee, massachusetts, usa",1555834809,"Out &amp; About Campus: Personal Accounts by Lesbian, Gay, Bisexual &amp; Transgender College Students",Kim Howard,7,FALSE
+204964,24,"chicopee, massachusetts, usa",068107468X,Edgar Allen Poe Collected Poems,Edgar Allan Poe,8,TRUE
+204964,24,"chicopee, massachusetts, usa",044022330X,Rush Limbaugh Is a Big Fat Idiot: And Other Observations,Al Franken,9,TRUE
+204964,24,"chicopee, massachusetts, usa",0375422307,Persepolis : The Story of a Childhood (Alex Awards (Awards)),MARJANE SATRAPI,10,TRUE
+210597,38,"lake winnebago, missouri, usa",013020787X,Core PHP Programming,Leon Atkinson,6,FALSE
+210597,38,"lake winnebago, missouri, usa",0060959681,Dancing Wu Li Masters : An Overview of the New Physics (Perennial Classics),Gary Zukav,7,FALSE
+210597,38,"lake winnebago, missouri, usa",0786866578,"Dictionary of the Future: The Words, Terms and Trends That Define the Way We'll Live, Work and Talk",Adam Hanft,8,FALSE
+210597,38,"lake winnebago, missouri, usa",0380789035,American Gods,Neil Gaiman,9,TRUE
+210597,38,"lake winnebago, missouri, usa",0786885688,Shopgirl,Steve Martin,9,TRUE
+210597,38,"lake winnebago, missouri, usa",1556154844,Code Complete,Steve McConnell,10,TRUE
+211303,43,"asheville, north carolina, usa",0671250671,"ROAD LESS TRAVELED : A New Psychology of Love, Traditional Values, and Spritual Growth (Touchstone Books (Paperback))",M. Scott Peck,5,FALSE
+211303,43,"asheville, north carolina, usa",0679459618,Dr. Death: A Novel,Jonathan Kellerman,7,FALSE
+211303,43,"asheville, north carolina, usa",0449223833,The Deep Blue Good-By,John D. MacDonald,7,FALSE
+211303,43,"asheville, north carolina, usa",0140258795,Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time,Dava Sobel,8,TRUE
+211303,43,"asheville, north carolina, usa",0517122707,A Confederacy of Dunces,John Kennedy Toole,10,TRUE
+211303,43,"asheville, north carolina, usa",0684874350,ANGELA'S ASHES,Frank McCourt,10,TRUE
+212002,53,"koeln, nordrhein-westfalen, germany",3453869664,Teufelsflut.,Colin Forbes,1,FALSE
+212002,53,"koeln, nordrhein-westfalen, germany",3442357063,Chinesisches Feuer.,Peter May,7,FALSE
+212002,53,"koeln, nordrhein-westfalen, germany",3404142780,Nachtblende.,Douglas Kennedy,7,FALSE
+212002,53,"koeln, nordrhein-westfalen, germany",3442726247,Der zweite Mord.,Helene Tursten,8,TRUE
+212002,53,"koeln, nordrhein-westfalen, germany",3442720621,Geschehnisse am Wasser.,Kerstin Ekman,9,TRUE
+212002,53,"koeln, nordrhein-westfalen, germany",3404142357,At E.R.O.S.,Greg Iles,9,TRUE
+212645,21,"coal township, pennsylvania, usa",1579542085,Pets' Letters to God,Mark Bricklin,7,FALSE
+212645,21,"coal township, pennsylvania, usa",076360013X,Guess How Much I Love You,Sam McBratney,8,FALSE
+212645,21,"coal township, pennsylvania, usa",0689710879,The Dark Is Rising,Susan Cooper,9,FALSE
+212645,21,"coal township, pennsylvania, usa",0441005489,"Redwall (Redwall, Book 1)",Brian Jacques,10,TRUE
+212645,21,"coal township, pennsylvania, usa",0740704818,The Blue Day Book,Bradley Trevor Greive,10,TRUE
+212645,21,"coal township, pennsylvania, usa",0740738402,Tomorrow : Adventures in an Uncertain World,Bradley Trevor Greive,10,TRUE
+214272,42,"paris, tennessee, usa",0553269151,Inherit the Wind,JEROME LAWRENCE,7,FALSE
+214272,42,"paris, tennessee, usa",0679434046,In the Kitchen With Rosie: Oprah's Favorite Recipes,Rosie Daley,7,FALSE
+214272,42,"paris, tennessee, usa",0821220802,"Odes to Common Things, Bilingual Edition",Pablo Neruda,8,FALSE
+214272,42,"paris, tennessee, usa",084991339X,Butterfly Kisses And Bittersweet Tears,Bob Carlisle,9,TRUE
+214272,42,"paris, tennessee, usa",0140143505,84 Charing Cross Road,Helene Hanff,9,TRUE
+214272,42,"paris, tennessee, usa",0062702084,The New Lifetime Reading Plan,Clifton Fadiman,10,TRUE
+215421,57,"san francisco, california, usa",0452282152,Girl with a Pearl Earring,Tracy Chevalier,7,FALSE
+215421,57,"san francisco, california, usa",0142400653,More Adventures of the Great Brain (Great Brain),John D. Fitzgerald,7,FALSE
+215421,57,"san francisco, california, usa",0142400645,Me and My Little Brain (Great Brain),John D. Fitzgerald,7,FALSE
+215421,57,"san francisco, california, usa",1400031354,Tears of the Giraffe (No.1 Ladies Detective Agency),Alexander McCall Smith,8,TRUE
+215421,57,"san francisco, california, usa",140003180X,The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency),ALEXANDER MCCALL SMITH,8,TRUE
+215421,57,"san francisco, california, usa",0142400580,The Great Brain (Great Brain),John D. Fitzgerald,8,TRUE
+221672,28,"rickmansworth, england, united kingdom",0968747906,Beyond the Threshold of Death,Erika Knudsen,4,FALSE
+221672,28,"rickmansworth, england, united kingdom",0345417186,Queen's Man (Ballantine Reader's Circle),SHARON KAY PENMAN,6,FALSE
+221672,28,"rickmansworth, england, united kingdom",0671047485,Shallow Graves (A Location Scout Mystery Series),Jeffery Deaver,7,FALSE
+221672,28,"rickmansworth, england, united kingdom",0345389417,Servant of the Bones,Anne Rice,8,TRUE
+221672,28,"rickmansworth, england, united kingdom",0345434226,Cruel as the Grave (Ballantine Reader's Circle),SHARON KAY PENMAN,8,TRUE
+221672,28,"rickmansworth, england, united kingdom",0684833395,Catch 22,Joseph Heller,10,TRUE
+223210,57,"rock hill, south carolina, usa",038572179X,Atonement : A Novel,IAN MCEWAN,5,FALSE
+223210,57,"rock hill, south carolina, usa",0446518581,Border Music,Robert James Waller,6,FALSE
+223210,57,"rock hill, south carolina, usa",0140265686,Out to Canaan (The Mitford Years),Jan Karon,7,FALSE
+223210,57,"rock hill, south carolina, usa",067976402X,Snow Falling on Cedars,David Guterson,8,TRUE
+223210,57,"rock hill, south carolina, usa",0140254544,A Light in the Window (The Mitford Years),Jan Karon,9,TRUE
+223210,57,"rock hill, south carolina, usa",0670865796,The Deep End of the Ocean (Oprah's Book Club (Hardcover)),Jacquelyn Mitchard,10,TRUE
+224340,45,"kansas city, missouri, usa",0671019554,Cold Hit (Alexandra Cooper Mysteries (Paperback)),Linda Fairstein,7,FALSE
+224340,45,"kansas city, missouri, usa",0743436679,The Bone Vault,Linda Fairstein,7,FALSE
+224340,45,"kansas city, missouri, usa",044922239X,Risk,DICK FRANCIS,8,FALSE
+224340,45,"kansas city, missouri, usa",034541389X,Flesh and Blood,Jonathan Kellerman,9,TRUE
+224340,45,"kansas city, missouri, usa",0425184234,A Small Death in Lisbon,Robert Wilson,9,TRUE
+224340,45,"kansas city, missouri, usa",0380731851,Mystic River,Dennis Lehane,10,TRUE
+229478,30,"haleiwa, hawaii, usa",1557987912,"Publication Manual of the American Psychological Association, Fifth Edition",American Psychological Association,5,FALSE
+229478,30,"haleiwa, hawaii, usa",0618004076,Becoming Madame Mao,Anchee Min,6,FALSE
+229478,30,"haleiwa, hawaii, usa",0743427149,The Twentieth Wife: A Novel,Indu Sundaresan,8,FALSE
+229478,30,"haleiwa, hawaii, usa",1569319782,"Flowers and Bees, Vol. 1",Moyoco Anno,9,TRUE
+229478,30,"haleiwa, hawaii, usa",0312135483,"Let's Go: The Budget Guide to Italy, 1996 : Including Tunisia (Let's Go)",Harvard Student Agencies,10,TRUE
+229478,30,"haleiwa, hawaii, usa",1591823145,"Battle Royale, Book 1",Koushun Takami,10,TRUE
+231264,38,"san antonio, texas, usa",0505525526,Single White Vampire,Lynsay Sands,7,FALSE
+231264,38,"san antonio, texas, usa",0553574094,With This Ring,Amanda Quick,7,FALSE
+231264,38,"san antonio, texas, usa",0380814811,Home for the Holidays,Johanna Lindsey,8,FALSE
+231264,38,"san antonio, texas, usa",0880387548,Kendermore (Dragonlance Saga Novel: Preludes),Mary Kirchoff,9,TRUE
+231264,38,"san antonio, texas, usa",0689859368,"The Field Guide (The Spiderwick Chronicles, Book 1)",Tony DiTerlizzi,9,TRUE
+231264,38,"san antonio, texas, usa",0446530077,Find Me,Rosie O'Donnell,9,TRUE
+236172,34,"chesapeake, virginia, usa",0890438439,How to Clean Practically Anything,Edward Kipel,5,FALSE
+236172,34,"chesapeake, virginia, usa",0440940605,I Am the Cheese (Laurel-Leaf Library),ROBERT CORMIER,6,FALSE
+236172,34,"chesapeake, virginia, usa",1580631991,The 90/10 Weight Loss Plan,Joy Bauer,7,FALSE
+236172,34,"chesapeake, virginia, usa",0385489056,Meg: A Novel of Deep Terror,Steve Alten,8,TRUE
+236172,34,"chesapeake, virginia, usa",060980619X,God Save the Sweet Potato Queens,JILL CONNER BROWNE,10,TRUE
+236172,34,"chesapeake, virginia, usa",0440225701,The Street Lawyer,JOHN GRISHAM,10,TRUE
+238630,21,"san francisco, california, usa",0140212965,Maya,Michael D Coe,2,FALSE
+238630,21,"san francisco, california, usa",0970815255,Screaming at a Wall,Greg Everett,2,FALSE
+238630,21,"san francisco, california, usa",1928568033,I Was A Teenage Dominatrix,Shawna Kenney,7,FALSE
+238630,21,"san francisco, california, usa",0064471764,Baby Be-Bop (Weetzie Bat),Francesca Lia Block,8,TRUE
+238630,21,"san francisco, california, usa",0872860175,Howl and Other Poems (Pocket Poets),Allen Ginsberg,9,TRUE
+238630,21,"san francisco, california, usa",1580050719,The Big Rumpus: A Mother's Tale from the Trenches,Ayun Halliday,10,TRUE
+238864,32,"powys, wales, united kingdom",009182284X,Othello: Shakespeare Made Easy (Shakespeare Made Easy),William Shakespeare,5,FALSE
+238864,32,"powys, wales, united kingdom",0312278586,The Nanny Diaries: A Novel,Emma McLaughlin,8,FALSE
+238864,32,"powys, wales, united kingdom",0749309423,The Silence of the Lambs,Thomas Harris,8,FALSE
+238864,32,"powys, wales, united kingdom",0874411033,As a Driven Leaf,Milton Steinberg,10,TRUE
+238864,32,"powys, wales, united kingdom",0140238212,Pride and Prejudice,Jane Austen,10,TRUE
+238864,32,"powys, wales, united kingdom",0140276300,Before I Say Goodbye,Ruth Picardie,10,TRUE
+240700,15,"waldorf, maryland, usa",0763615676,Burger Wuss,M. T. Anderson,6,FALSE
+240700,15,"waldorf, maryland, usa",0440405483,Many Waters,Madeleine L'Engle,7,FALSE
+240700,15,"waldorf, maryland, usa",0064472264,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",Louise Rennison,8,FALSE
+240700,15,"waldorf, maryland, usa",0152162577,Deep Wizardry: The Second Book in the Young Wizards Series,Diane Duane,9,TRUE
+240700,15,"waldorf, maryland, usa",0152162445,High Wizardry: The Third Book in the Young Wizards Series,Diane Duane,9,TRUE
+240700,15,"waldorf, maryland, usa",0375825444,Flipped,Wendelin Van Draanen,9,TRUE
+253403,29,"sydney, new south wales, australia",1841882348,What Not to Wear,Susannah Constantine,6,FALSE
+253403,29,"sydney, new south wales, australia",0449905667,Raj: A Novel,Gita Mehta,8,FALSE
+253403,29,"sydney, new south wales, australia",0330294911,Man Who Mistook His Wife for a Hat,Oliver Sacks,8,FALSE
+253403,29,"sydney, new south wales, australia",0684835509,The CASE FOR MARS,Robert Zubrin,10,TRUE
+253403,29,"sydney, new south wales, australia",0130926418,Modern Operating Systems,Andrew S. Tanenbaum,10,TRUE
+253403,29,"sydney, new south wales, australia",0471117099,"Applied Cryptography: Protocols, Algorithms, and Source Code in C, Second Edition",Bruce  Schneier,10,TRUE
+254995,39,"san diego, california, usa",0743225961,The Biker Code: Wisdom for the Ride,Stuart Miller,6,FALSE
+254995,39,"san diego, california, usa",0553294385,"I, Robot",ISAAC ASIMOV,6,FALSE
+254995,39,"san diego, california, usa",1880418568,"Wolves of the Calla (The Dark Tower, Book 5)",Stephen King,7,FALSE
+254995,39,"san diego, california, usa",0385493622,Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem,Simon Singh,8,TRUE
+254995,39,"san diego, california, usa",0156027321,Life of Pi,Yann Martel,8,TRUE
+254995,39,"san diego, california, usa",0060958324,Zen and the Art of Motorcycle Maintenance: An Inquiry into Values,Robert M. Pirsig,8,TRUE
+258011,29,"sydney, new south wales, australia",0826468500,Dignity of Difference: How to Avoid the Clash of Civilizations,Jonathan Sacks,5,FALSE
+258011,29,"sydney, new south wales, australia",0618446702,"Reefer Madness : Sex, Drugs, and Cheap Labor in the American Black Market",Eric Schlosser,8,FALSE
+258011,29,"sydney, new south wales, australia",0517702819,The Zenith of Desire: Contemporary Lesbian Poems About Sex,Gerry Gomez Pearlberg,8,FALSE
+258011,29,"sydney, new south wales, australia",1859846793,"The Clash of Fundamentalisms: Crusades, Jihads and Modernity",Tariq Ali,9,TRUE
+258011,29,"sydney, new south wales, australia",0060997036,Laughable Loves,Milan Kundera,9,TRUE
+258011,29,"sydney, new south wales, australia",0375703861,White Teeth: A Novel,Zadie Smith,10,TRUE
+259259,30,"woodruff, south carolina, usa",0553580094,The Murder Channel,John Philpin,8,FALSE
+259259,30,"woodruff, south carolina, usa",0679441018,Memnoch the Devil : The Vampire Chronicles (Vampire Chronicles),ANNE RICE,9,FALSE
+259259,30,"woodruff, south carolina, usa",038550120X,A Painted House,JOHN GRISHAM,9,FALSE
+259259,30,"woodruff, south carolina, usa",0345313860,"The Vampire Lestat (Vampire Chronicles, Book II)",ANNE RICE,10,TRUE
+259259,30,"woodruff, south carolina, usa",0345384466,The Witching Hour (Lives of the Mayfair Witches),ANNE RICE,10,TRUE
+259259,30,"woodruff, south carolina, usa",0345337662,Interview with the Vampire,Anne Rice,10,TRUE
+259264,45,"molalla, ,",0060391677,Miss America,Howard Stern,6,FALSE
+259264,45,"molalla, ,",0312925557,Blanche Knott's Truly Tasteless Jokes IV (Truly Tasteless Jokes),Blanche Knott,7,FALSE
+259264,45,"molalla, ,",0740700316,You Know You'Ve Reached Middle Age If...,Joey Green,7,FALSE
+259264,45,"molalla, ,",0451126505,Cujo,Stephen King,8,TRUE
+259264,45,"molalla, ,",044651652X,The Bridges of Madison County,Robert James Waller,9,TRUE
+259264,45,"molalla, ,",0345396065,Sleepers,Lorenzo Carcaterra,10,TRUE
+267354,40,"oakdale, minnesota, usa",0786890436,The Diary of Ellen Rimbauer: My Life at Rose Red,Ellen Rimbauer,2,FALSE
+267354,40,"oakdale, minnesota, usa",0671795538,Perfect,Judith McNaught,8,FALSE
+267354,40,"oakdale, minnesota, usa",0385507607,The Probable Future,ALICE HOFFMAN,8,FALSE
+267354,40,"oakdale, minnesota, usa",0345384466,The Witching Hour (Lives of the Mayfair Witches),ANNE RICE,9,TRUE
+267354,40,"oakdale, minnesota, usa",0449006379,Lord of Fire,Gaelen Foley,9,TRUE
+267354,40,"oakdale, minnesota, usa",0425181111,Strangers,Dean R. Koontz,9,TRUE
+267621,68,"fort lauderdale, florida, usa",0671867865,Through Time Into Healing,Brian L. Weiss,5,FALSE
+267621,68,"fort lauderdale, florida, usa",1573226106,Kitchen Table Wisdom: Stories That Heal,Rachel Naomi Remen,5,FALSE
+267621,68,"fort lauderdale, florida, usa",0804105820,It Was on Fire When I Lay Down on It,Robert Fulghum,7,FALSE
+267621,68,"fort lauderdale, florida, usa",0439064872,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,8,TRUE
+267621,68,"fort lauderdale, florida, usa",0446611867,A Bend in the Road,Nicholas Sparks,8,TRUE
+267621,68,"fort lauderdale, florida, usa",082451498X,Listening to Your Inner Guide,Jon Mundy,8,TRUE
+268639,21,"iolai, missouri, usa",0515130613,Doubleshot,Raymond Benson,5,FALSE
+268639,21,"iolai, missouri, usa",0373123337,Nathan's Child   (Modern Day Knights),Anne Mcallister,7,FALSE
+268639,21,"iolai, missouri, usa",0373196660,Pregnant By The Boss!,Carol Grace,7,FALSE
+268639,21,"iolai, missouri, usa",0425173755,Murder on the Orient Express (Hercule Poirot Mysteries (Paperback)),Agatha Christie,9,TRUE
+268639,21,"iolai, missouri, usa",0375411089,Skinny Dip,Carl Hiaasen,9,TRUE
+268639,21,"iolai, missouri, usa",0671042858,The Girl Who Loved Tom Gordon,Stephen King,10,TRUE
+272002,31,"mountain view, california, usa",1887299106,Alternative Medicine Guide to Heart Disease,Burton Goldberg,5,FALSE
+272002,31,"mountain view, california, usa",1567313051,Why You Say It,Webb Garrison,5,FALSE
+272002,31,"mountain view, california, usa",0671021001,She's Come Undone (Oprah's Book Club),Wally Lamb,5,FALSE
+272002,31,"mountain view, california, usa",0375803017,The Halloween Tree,Ray Bradbury,6,TRUE
+272002,31,"mountain view, california, usa",0962500631,The Undutchables: A Observation of the Netherlands : Its Culture and Its Inhabitants,Colin White,7,TRUE
+272002,31,"mountain view, california, usa",0312862873,Door Number Three,Patrick O'Leary,7,TRUE
+275210,29,"copenhagen, n/a, denmark",0064406148,"Darkness Falls (X Files, No 2)",Les Martin,5,FALSE
+275210,29,"copenhagen, n/a, denmark",0671000314,FLOOD TIDE,Clive Cussler,8,FALSE
+275210,29,"copenhagen, n/a, denmark",0425189414,Midnight Runner,Jack Higgins,8,FALSE
+275210,29,"copenhagen, n/a, denmark",0446675059,The Honk and Holler Opening Soon,Billie Letts,9,TRUE
+275210,29,"copenhagen, n/a, denmark",0684196395,ONE FOR THE MONEY : A Stephanie Plum Novel,Janet Evanovich,9,TRUE
+275210,29,"copenhagen, n/a, denmark",0425185710,Valhalla Rising (Dirk Pitt Adventures (Paperback)),Clive Cussler,9,TRUE
+278221,32,"oshawa, ontario, canada",1556611188,The Calling of Emily Evans (Women of the West (Paperback Bethany House)),Janette Oke,9,FALSE
+278221,32,"oshawa, ontario, canada",0553582755,One Door Away from Heaven,Dean R. Koontz,9,FALSE
+278221,32,"oshawa, ontario, canada",155661246X,They Called Her Mrs. Doc (Women of the West),Janette Oke,9,FALSE
+278221,32,"oshawa, ontario, canada",0316779032,The Discipline Book: How to Have a Better-Behaved Child From Birth to Age Ten,Martha,10,TRUE
+278221,32,"oshawa, ontario, canada",0316031054,Little Women : From the Original Publisher,Louisa May Alcott,10,TRUE
+278221,32,"oshawa, ontario, canada",1556612257,A Woman Named Damaris (Women of the West),Janette Oke,10,TRUE
