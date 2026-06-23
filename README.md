@@ -1,6 +1,7 @@
 # Faithfulness in Black-Box LLM-based Recommender Systems' Explanations
 
-This repositories holds the code used in the experiments of Chapter 5 of my master thesis.
+This repositories holds the code and the experiments used for the paper Faithfulness in Black-Box LLM-Based
+Recommender Systems’ Explanations presented at BRACIS 2026 and Chapter 5 of my master thesis.
 
 # Setting the environment
 
